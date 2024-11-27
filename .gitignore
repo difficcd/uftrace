@@ -2,6 +2,7 @@
 *.op
 *.ot
 *.oy
+1
 a.out
 ftrace
 uftrace
@@ -49,3 +50,4 @@ misc/demangler
 misc/symbols
 misc/dbginfo
 misc/bench
+New line of text
